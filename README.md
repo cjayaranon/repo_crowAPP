@@ -1,6 +1,6 @@
 # README #
 
-* A web service 
+* An addition to the Chikka app that lets the user send emergency text to the nationwide emergency number (911)
 * Version 1.1
 
 ### How do I get set up? ###
