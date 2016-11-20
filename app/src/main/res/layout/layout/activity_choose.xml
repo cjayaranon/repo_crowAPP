@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="116dp"
+            android:layout_height="110dp"
+            android:text="@string/ff"
+            android:id="@+id/f"
+            android:layout_marginTop="160dp"
+            android:layout_marginStart="57dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/fire" />
+
+        <Button
+            android:layout_width="116dp"
+            android:layout_height="110dp"
+            android:text="@string/rr"
+            android:id="@+id/r"
+            android:layout_marginLeft="20dp"
+            android:layout_alignTop="@+id/f"
+            android:layout_toEndOf="@+id/f"
+            android:layout_marginStart="32dp"
+            android:background="@drawable/cirminal" />
+
+        <Button
+            android:layout_width="116dp"
+            android:layout_height="110dp"
+            android:text="@string/cc"
+            android:id="@+id/ac"
+            android:layout_marginTop="14dp"
+            android:layout_below="@+id/f"
+            android:layout_toStartOf="@+id/r"
+            android:background="@drawable/hospital" />
+
+        <Button
+            android:layout_width="116dp"
+            android:layout_height="110dp"
+            android:text="@string/aa"
+            android:id="@+id/ab"
+            android:layout_alignTop="@+id/ac"
+            android:layout_alignStart="@+id/r"
+            android:background="@drawable/ambulance" />
+    </RelativeLayout>
+</LinearLayout>

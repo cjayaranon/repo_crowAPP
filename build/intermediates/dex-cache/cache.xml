@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2dcebc3cad7d8cea591368fbbb20f2722a83a2c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_4ba813d366b6c487515b9c820ac671c69bfd335e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_5d6d5e988d73e579d51fc9d61fd625208235ff96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_8aadbc3427536415e6ced06e2cb00b5791b5d8ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_7c11280dba635b1c30caee7f0a1fb122505d7235.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_970600a6d2d2cdf073250cc9d99e526a59432c8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7c9409e1bda35393644df85e2671091ff2ef2366.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ea252d6ac0851faf7d3627762fa6301223424fce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_74f247250208eec8035ab01621a4bccc7218169a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6cd90832ac5632a47f55067bf9555df7626afde4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0d24e2ead8c578cc1fe187e162d8c25ef4f0eb02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_a9d305f2a2523e2745ec6e232a1c2b4b0228d5fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_623c0d499836757fdf12e48d29fb0bb027f10294.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_8c4dbc3164a044cb6ab0e9260262122451eda42b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_21be4a42a25a8b424592b7ee075ed8c38ca7b6e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Lenovo G40\AndroidStudioProjects\MyApplication4\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_9cc14d8a59b230e2170f8c3b4bd60b878d8c86d1.jar" />
+    </item>
+
+</items>
